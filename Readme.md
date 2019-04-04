@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/WebApplication18/Default.aspx) (VB: [Default.aspx](./VB/WebApplication18/Default.aspx))
-* [Default.aspx.cs](./CS/WebApplication18/Default.aspx.cs) (VB: [Default.aspx](./VB/WebApplication18/Default.aspx))
+* [Default.aspx.cs](./CS/WebApplication18/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebApplication18/Default.aspx.vb))
 <!-- default file list end -->
 # Web Dashboard - How to implement cascading combo boxes' filtering using ASPxComboBox controls
 
